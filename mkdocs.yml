@@ -1,49 +1,69 @@
 site_name: Linee Guida DPO
-site_description: Linee guida per il Responsabile della Protezione dei Dati
-site_author: ISIAU
+site_description: Linee guida relative alla Privacy
+site_author: ISIA Urbino
 docs_dir: docs
 site_dir: site
-
+copyright: Copyright &copy; <script>document.write(new Date().getFullYear())</script> - ISIA Urbino
+nav:
+    - Premessa: index.md
+    - Ufficio del Personale: 01-ufficiopersonale.md
+    - Ufficio Protocollo: 02-ufficioprotocollo.md
 theme:
   name: material
+  custom_dir: overrides
   language: it
+  logo: assets/ISIAU_logo-light.png
+  favicon: assets/favicon.png
+  features:
+    - #navigation.instant
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - #navigation.indexes
+    - #navigation.prune
+    - #navigation.expand
   palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: black
+      toggle:
+        icon: material/brightness-3
+        name: Modalità notte
+     # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: white
       toggle:
         icon: material/brightness-7
-        name: Passa alla modalità scura
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: Passa alla modalità chiara
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.top
-    - search.highlight
-    - search.suggest
-    - content.code.copy
-
+        name: Modalità giorno
+extra:
+  generator: false
+  analytics: 
+    provider: google
+    property: G-GCPECPJN21
+  consent:
+    title: Cookie consent
+    description: >- 
+      Questo sito non esegue alcun tipo di profilazione, né richiede alcun dato personale. I suoi cookie hanno il solo scopo di aggiornare il conteggio visiste e, se possibile, ripristinare le vostre preferenze di lettura.     
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - https://code.jquery.com/jquery-3.7.1.min.js
+  - javascripts/extra.js
+  - javascripts/schema.js
 plugins:
-  - search:
-      lang: it
-
+  - search
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.tabbed:
-      alternate_style: true
   - attr_list
-  - md_in_html
-  - toc:
-      permalink: true
-
-nav:
-  - Home: index.md
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
