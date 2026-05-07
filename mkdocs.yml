@@ -6,8 +6,9 @@ site_dir: site
 copyright: Copyright &copy; <script>document.write(new Date().getFullYear())</script> - ISIA Urbino
 nav:
     - Premessa: index.md
-    - Ufficio del Personale: 01-ufficiopersonale.md
+    - Ufficio Personale: 01-ufficiopersonale.md
     - Ufficio Protocollo: 02-ufficioprotocollo.md
+    - Ufficio Segreteria Didattica: 03-segreteriadidattica.md
 theme:
   name: material
   custom_dir: overrides
