@@ -16,7 +16,7 @@ Ai fini della conformità al Regolamento europeo del trattamento dei dati person
 
 #### Note operative
 
-Nelle procedure concorsuali o selettive, l’Ufficio Personale deve inserire nel testo del bando un apposito articolo riguardante il “Trattamento dei dati personali” e la relativa dichiarazione di presa visione della “[Informativa del trattamento dei dati personali](https://privacy.isiaurbino.net/assets/ISIAU-Informativa%20procedure%20selettive-
+Nelle procedure concorsuali o selettive, l’Ufficio Personale deve inserire nel testo del bando e del relativo conseguente contratto, un apposito articolo (vd. tabella in calce, alla voce "Procedure concorsuali") riguardante il “Trattamento dei dati personali” e la relativa dichiarazione di presa visione della “[Informativa del trattamento dei dati personali](https://privacy.isiaurbino.net/assets/ISIAU-Informativa%20procedure%20selettive-
 concorsuali-valutazioni%20comparative.pdf){:target="_blank"}”.
 
 Per quanto riguarda il modello della liberatoria per la cessione dei diritti di utilizzo della propria immagine, l’Ufficio Personale utilizza esclusivamente i modelli ufficiali approvati dal Team Privacy, pubblicati in una [pagina dedicata sul sito della Privacy](https://privacy.isiaurbino.net/08-liberatoria-immagini/){:target="_blank"}.
