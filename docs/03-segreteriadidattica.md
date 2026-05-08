@@ -47,4 +47,4 @@ La Segreteria Didattica è tenuta a segnalare tempestivamente qualsiasi problema
 | Attività      | Cosa fare                          |
 | :----------   | :----------------------------------- |
 | **Procedure selettive esami di ammissione** | ==Inserire nel testo del bando un apposito articolo riguardante il “Trattamento dei dati personali”== |
-| **Compilazione graduatorie** | ==(da fare== |
+| **Compilazione graduatorie** | ==(da fare)== |
