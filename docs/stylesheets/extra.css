@@ -89,6 +89,22 @@ label.md-nav__title {
     font-size: 1.8rem;
 }
 
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+    letter-spacing: normal;
+}
+
+.md-typeset h5 {
+    text-transform: none;
+    font-weight: 700;
+    font-size: .85rem;
+    color: black;
+}
+
 article h1 {
     display: none;
 }

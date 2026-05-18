@@ -25,5 +25,3 @@ La scheda per ogni ufficio è così articolata:
 In tutte le fasi è importante coordinarsi con il Team Privacy.
 
 Si ricorda che l'ISIA di Urbino, in qualità di Titolare del trattamento, deve provvedere al trattamento dei dati personali raccolti o forniti dall’interessata/o **per soli fini istituzionali** e devono essere improntati ai **principi di liceità, correttezza e trasparenza dei trattamenti**, all’**utilizzo dei dati per finalità determinate, esplicite, legittime**, in modo pertinente rispetto al trattamento, rispettando i **principi di minimizzazione dei dati, esattezza, limitazione della conservazione, integrità e riservatezza, responsabilizzazione** (art. 5 del GDPR).
-
-==In collaborazione con il Team Privacy, sono previste attività di **formazione in materia di privacy**, sulle norme di protezione dei dati e sulle buone pratiche quotidiane di sicurezza informatica e riservatezza, rivolte a tutto il personale e ai nuovi soggetti assunti.==
