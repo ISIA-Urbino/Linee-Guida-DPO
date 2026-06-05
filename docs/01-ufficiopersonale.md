@@ -16,7 +16,7 @@ Ai fini della conformità al Regolamento europeo del trattamento dei dati person
 
 #### Note operative
 
-Nelle procedure concorsuali o selettive l’Ufficio Personale deve inserire nel testo del bando un apposito articolo (vd. tabella in calce, alla voce "Procedure concorsuali") riguardante il “Trattamento dei dati personali” e nel modulo di domanda la relativa dichiarazione di presa visione della “[Informativa del trattamento dei dati personali](https://privacy.isiaurbino.net/assets/ISIAU-Informativa%20procedure%20selettive-
+Nelle procedure concorsuali o selettive tramite individuazione diretta l’Ufficio Personale deve inserire nel testo del bando un apposito articolo (vd. tabella in calce, alla voce "Procedure concorsuali") riguardante il “Trattamento dei dati personali” e nel modulo di domanda la relativa dichiarazione di presa visione della “[Informativa del trattamento dei dati personali](https://privacy.isiaurbino.net/assets/ISIAU-Informativa%20procedure%20selettive-
 concorsuali-valutazioni%20comparative.pdf){:target="_blank"}”.
 
 Nelle procedure che prevedono una stipula di contratto l’Ufficio Personale deve inserire nel testo del contratto un apposito articolo (vd. tabella in calce, alla voce "Stipule contratti") riguardante il “Trattamento dei dati personali”.
