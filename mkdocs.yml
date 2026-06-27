@@ -9,7 +9,11 @@ nav:
     - Ufficio Personale: 01-ufficiopersonale.md
     - Ufficio Protocollo: 02-ufficioprotocollo.md
     - Ufficio Segreteria Didattica: 03-segreteriadidattica.md
+    - Ufficio Contabilità: 05-ufficiocontabilita.md
     - Ufficio Segreteria di Produzione: 06-ufficiosegreteriaproduzione.md
+    - Ufficio Direzione Amministrativa: 07-ufficiodirezioneamministrativa.md
+    - Ufficio Ragioneria: 08-ufficioragioneria.md
+    - Attività trasversali: 09-trasversali.md
     - Buone pratiche: 010-buonepratiche.md
 theme:
   name: material
