@@ -51,3 +51,8 @@ L’Ufficio di Segreteria di Produzione è tenuto a segnalare tempestivamente qu
 | **Procedure selettive studenti** | Inserire nei contratti apposito articolo sul trattamento dati: <br/><em>**Trattamento dei dati personali**<br/> Ai sensi dell’art. 13 del Regolamento – UE 2016/679 (GDPR), i dati personali forniti dalla/dal contraente saranno raccolti negli Uffici dell’Istituto Superiore per le Industrie Artistiche di Urbino e trattati in forma cartacea e informatica per le finalità di gestione della procedura del presente contratto. L’informativa del trattamento dei dati personali è consultabile al seguente link: https://privacy.isiaurbino.net/assets/ISIAU-Informativa-rapporto-lavoro.pdf</em> |
 | **Stipula contratti** | Inserire nei contratti apposito articolo sul trattamento dati: <br/><em>**Trattamento dei dati personali**<br/> Ai sensi dell’art. 13 del Regolamento – UE 2016/679 (GDPR), i dati personali forniti dalla/dal contraente saranno raccolti negli Uffici dell’Istituto Superiore per le Industrie Artistiche di Urbino e trattati in forma cartacea e informatica per le finalità di gestione della procedura del presente contratto. L’informativa del trattamento dei dati personali è consultabile al seguente link: https://privacy.isiaurbino.net/assets/ISIAU-Informativa-rapporto-lavoro.pdf</em> |
 | **Violazione privacy**  | Segnalare immediatamente il problema al Team Privacy  |
+
+
+##### Convenzioni/accordi attuativi
+
+==da aggiungere (caveat: uso dei progetti degli studenti considerando la loro proprietà intellettuale)==

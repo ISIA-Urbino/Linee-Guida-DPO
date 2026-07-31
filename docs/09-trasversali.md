@@ -7,11 +7,10 @@ hide:
 
 ### Attività trasversali
 
-- Procedura Erasmus
 - Conto terzi
-- Convenzioni
 - Concessione locali
-
+- Convenzioni
+- Procedura Erasmus
 
 
 #### Conto terzi
@@ -48,10 +47,19 @@ I locali sede dell'ISIA di Urbino possono essere richiesti da parte di soggetti 
 La procedura prevede:
 
 1. formale richiesta da parte di soggetti pubblici o privati
-2. stipula di un contratto
+2. formale riscontro a firma della Direzione
+3. stipula di un contratto
 
 ##### Azioni operative
 
 | Attività      | Cosa fare                          |
 | :----------   | :----------------------------------- |
-| **Contratto di concessione locali** | Inserire nel testo apposito articolo sul trattamento dati: <br/><em>**Trattamento dei dati personali**<br/> Ai sensi dell’art. 13 del Regolamento – UE 2016/679 (GDPR), i dati forniti dal Committente saranno raccolti negli Uffici dell’Istituto Superiore per le Industrie Artistiche di Urbino e trattati in forma cartacea e informatica per le finalità di gestione della convenzione/accordo attuativo. L’informativa del trattamento dei dati personali è consultabile ==al seguente link: https://privacy.isiaurbino.net/assets/ISIAU-Informativa-rapporto-lavoro.pdf.==</em> |
+| **Contratto di concessione locali** | Inserire nel testo apposito articolo sul trattamento dati: <br/><em>**Trattamento dei dati personali**<br/> Ai sensi dell’art. 13 del Regolamento – UE 2016/679 (GDPR), i dati forniti dal Committente saranno raccolti negli Uffici dell’Istituto Superiore per le Industrie Artistiche di Urbino e trattati in forma cartacea e informatica per le finalità di gestione della convenzione/accordo attuativo. L’informativa del trattamento dei dati personali è consultabile al seguente link: https://privacy.isiaurbino.net/assets/ISIAU-Informativa-concessione-locali.pdf</em> |
+
+#### Convenzioni
+
+==da verificare (perché questa parte è già prevista nella pagina dell'Ufficio di Segreteria di Produzione)==
+
+#### Erasmus
+
+==da vedere con l'Ufficio Rapporti con gli Organi==
